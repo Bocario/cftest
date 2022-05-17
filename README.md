@@ -1,0 +1,2 @@
+# cftest
+Cloudflare Pages testing
